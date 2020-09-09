@@ -1,74 +1,40 @@
 {
-  "teamDesc": "<p>Our team works together to coordinate the network activities, engage with our members, and collaborate with other stakeholders within the country.</p>",
+  "teamDesc": "<p>Our team works together to coordinate the network activities, engage with our members, and collaborate with other stakeholders within the country.</p><p>SDSN Kenya is headed by a team of three consultants. </p>",
   "leadershipCouncil": true,
   "networkManagers": true,
   "youthCoordinators": true,
   "lcTitle": "Leadership Council",
   "nmTitle": "Network Managers",
   "youthTitle": "The Youth Team",
-  "lcDesc": "<p>The Network is guided by a Leadership Council - made up of global sustainable development leaders from all regions and all sectors, including civil society, public, and private sectors.</p>",
-  "nmDesc": "Network Managers coordinate the network, working with Member Institutions to identify potential collaboration within the network.",
+  "lcDesc": "<p>The Leadership Council (LC) will comprise of 7 members with executive powers to run the affairs of SDSN Kenya. The LC meets monthly to plan, execute and monitor the progress being made in implementing program work in line with the mandate and agenda of SDSN Kenya. The LC is responsible to the General Assembly for the management and development of project and programs of SDSN Kenya. The responsibilities of the LC include:</p><ul><li><p>Consolidating and expanding SDSN Kenya to include participants from the desired constituencies and regions;</p></li><li><p>Ensuring that the desired services and functions of SDSN Kenya are developed and maintained, including associated fundraising;</p></li><li><p>Identifying and pursuing strategic opportunities to develop projects and promote its goals; and</p></li><li><p>Managing the project Secretariat.</p></li></ul>",
+  "nmDesc": "<p>Network Managers coordinate the network, working with Member Institutions to identify potential collaboration within the network.</p>",
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
-    {
-      "name": "The Fifth Member",
-      "networkPosition": "Council Member",
-      "position": "",
-      "photo": "",
-      "email": ""
-    },
-    {
-      "name": "Sally by the Seashore",
-      "networkPosition": "Council Member",
-      "position": "",
-      "photo": "/uploads/men-s-wearing-black-suit-jacket-and-pants-937481.jpg",
-      "email": ""
-    },
-    {
-      "name": "Bob The Builder",
-      "networkPosition": "Council Advisor",
-      "position": "",
-      "photo": "/uploads/man-in-red-jacket-1681010.jpg",
-      "email": ""
-    },
-    {
-      "name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "networkPosition": "Council Advisor",
-      "position": "CEO, AOIF",
-      "photo": "/uploads/man-wearing-black-zip-up-jacket-near-beach-smiling-at-the-736716.jpg",
-      "email": ""
-    },
-    {
-      "name": "Shiloh Name",
-      "networkPosition": "Network Chair",
-      "position": "",
-      "photo": "/uploads/photo-of-woman-wearing-yellow-floral-top-871495.jpg",
-      "email": ""
-    }
+
   ],
   "nmProfiles": [
     {
-      "name": "John Name",
-      "networkPosition": "Network Manager",
+      "name": "Ms. Stella Mbiti",
+      "email": "",
+      "networkPosition": "Assistant Network Manager",
       "position": "",
-      "photo": "/uploads/men-s-wearing-black-suit-jacket-and-pants-937481.jpg",
-      "email": ""
+      "photo": ""
     },
     {
-      "name": "Marie Name",
-      "networkPosition": "Network Manager",
+      "name": "Wesley Chirchir",
+      "networkPosition": "Network Manager and Program Manager",
       "position": "",
-      "photo": "/uploads/photo-of-woman-wearing-head-scarf-2951093.jpg",
+      "photo": "",
       "email": ""
     }
   ],
   "youthProfiles": [
     {
-      "name": "Lee Name",
+      "name": "Felix Kulei",
       "networkPosition": "Youth Network Coordinator",
       "position": "",
-      "photo": "/uploads/man-in-red-jacket-1681010.jpg",
-      "email": "antarctica@sdsnyouth.org"
+      "photo": "",
+      "email": ""
     }
   ],
   "defaultPhoto": "/images/person.png",
