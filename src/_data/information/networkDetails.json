@@ -1,47 +1,41 @@
 {
-  "logo": "/uploads/sdsn-kenya.png",
-  "whitelogo": "/uploads/sdsn-antsarc.png",
-  "favicon": "/uploads/favicon.png",
+  "logo": "/uploads/sdsn-antarc.png",
+  "whitelogo": "/uploads/sdsn-networks-logo-kenya-white.png",
+  "favicon": "/uploads/android-chrome-192x192.png",
   "networkName": "Kenya",
-  "networkDesc": "<p>SDSN Kenya is a community of universities, research centers, and other knowledge institutions to translate the latest expertise in sustainable development into action.</p>",
-  "networkVision": "Mobilizing SDG implementation through solution initiatives and long-term pathways in Kenya.",
-  "networkVisionSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.",
+  "networkDesc": "<p>SDSN Kenya promotes the implementation of the 2030 Agenda for Sustainable Development, which was adopted by all United Nations Member States in 2015. The Agenda provides a shared blueprint for peace and prosperity for people and the planet, now and into the future. At its heart are the 17 SDGs, which are an urgent call for action by all countries - developed and developing - in a global partnership. They recognize that ending poverty and other deprivations must go hand-in-hand with strategies that improve health and education, reduce inequality, and spur economic growth – all while tackling climate change and working to preserve our oceans and forests</p><p>There are four guiding principles for the SDGs:</p><ol><li><p>Universality: the goals apply in every country, including Kenya.</p></li><li><p>Integration: achievement of any one goal is linked to the achievement of the others.</p></li><li><p>Aspiration: there is a need to move past business as usual and seek transformational solutions.</p></li><li><p>Leaving No One Behind: success depends on the inclusion of the poorest and most vulnerable.</p></li><li><p>Listing of the 17 Sustainable Development Goals</p></li></ol>",
+  "networkVision": "Promote the implementation of solutions for sustainable development in Kenya.",
+  "networkVisionSubtitle": "SDSN Kenya endeavors to build pathways towards the achievement of the UN Sustainable Development Goals in Kenya by mobilizing research, outreach, and collective action.",
   "networkObjectives": [
     {
-      "header": "Localize the SDGs to Kenya 1",
-      "desc": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.</p>",
+      "header": " ",
+      "desc": "<p>To organize annual regional sustainable development meetings bringing together key stakeholders from Kenya to identify and promote regional solutions initiatives.</p>",
       "link": ""
     },
     {
-      "header": "Localize the SDGs to Kenya 5",
-      "desc": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.</p>",
-      "link": "sdgstudent.org"
+      "header": " ",
+      "desc": "<p>To mobilize SDSN Members in Kenya and coordinate the activities of SDSN Kenya.</p>",
+      "link": ""
     },
     {
-      "header": "Localize the SDGs to Kenya 3",
-      "desc": "",
-      "link": "sdgstudent.org"
+      "header": " ",
+      "desc": "<p>To publicize national, regional and global SDSN activities amongst policy makers, private sector and civil society.</p>",
+      "link": ""
+    },
+    {
+      "desc": "<p>To promote national and regional solutions initiatives.</p>",
+      "link": "",
+      "header": " "
     }
   ],
-  "impactSection": true,
-  "networkImpact": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu. Vivamus fermentum ex ut mauris feugiat convallis. Fusce cursus diam vel nunc lobortis, nec finibus orci lacinia.</p>",
+  "impactSection": false,
+  "networkImpact": "<p></p>",
   "networkMetrics": [
-    {
-      "header": "3 years",
-      "desc": "<p>Awarded the Sustainability Award in Kenya, 3 years in a row.</p>"
-    },
-    {
-      "header": "129",
-      "desc": "<p>Scored 129 in the Antarctic region for driving SDG implementation.</p>"
-    },
-    {
-      "header": "20",
-      "desc": "<p>Member Institutions in the South Pole - covering academia, fisheries and ice cap management firms.</p>"
-    }
+
   ],
   "networkEmail": "kenya@unsdsn.org",
   "websiteTitle": "SDSN Kenya",
-  "websiteURL": "https://sdsn-rn-network.netlify.app/",
+  "websiteURL": "https://sdsn-kenya.netlify.app",
   "membersList": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shr69E7ELoC9HAx5U?backgroundColor=blue&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
   "title": "Network Details"
 }
