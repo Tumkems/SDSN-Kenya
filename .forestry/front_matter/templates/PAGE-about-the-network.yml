@@ -28,7 +28,7 @@ fields:
   config:
     required: false
   label: Feature Title
-  default: Mobilizing sustainable development in Antarctica
+  default: Mobilizing sustainable development in Kenya
 - name: metricsHeader
   type: text
   config:

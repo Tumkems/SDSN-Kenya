@@ -1,11 +1,11 @@
 ---
 title: Example Event
 date: 2012-06-17T01:00:00.000+00:00
-author: SDSN Antarctica
+author: SDSN Kenya
 fImage: ""
 featuredToggle: false
 tags:
-- Antarctica
+- Kenya
 - Launch
 desc: 'Launch event of SDSN Cyprus'
 location: 'Online webinar'

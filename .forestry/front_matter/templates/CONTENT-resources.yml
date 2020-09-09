@@ -129,7 +129,7 @@ fields:
   default: []
   label: Tags
   description: Put some tags to make finding content easier for your website visitors!
-    E.g. Antarctica, Youth, Climate change, etc. Press enter after each tag.
+    E.g. Kenya, Youth, Climate change, etc. Press enter after each tag.
 pages:
 - src/content/resources/Example-resource-no-img.md
 - src/content/resources/Example-resource-no-links.md

@@ -1,11 +1,11 @@
 ---
 title: Example Webinar
 date: 2012-06-17T01:00:00.000+00:00
-author: SDSN Antarctica
+author: SDSN Kenya
 fImage: "/uploads/rainforest-during-foggy-day-975771.jpg"
 featuredToggle: false
 tags:
-- Antarctica
+- Kenya
 - Launch
 desc: "<p>Launch event of SDSN Cyprus</p>"
 location: Online webinar

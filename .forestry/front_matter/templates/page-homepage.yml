@@ -10,8 +10,8 @@ fields:
 - type: text
   name: header
   label: Banner Title
-  default: Sustainable Development Solutions Network - Antarctica
-  description: e.g. Sustainable Development Solutions Network - Antarctica
+  default: Sustainable Development Solutions Network - Kenya
+  description: e.g. Sustainable Development Solutions Network - Kenya
   config:
     required: true
 - name: subtitle
@@ -25,7 +25,7 @@ fields:
       format: html-blocks
   label: Banner Sub Title
   description: e.g. Mobilizing SDG implementation through solution initiatives and
-    long-term pathways in Antarctica.
+    long-term pathways in Kenya.
 - name: featureTitle
   type: text
   config:

@@ -1,24 +1,24 @@
 {
-  "logo": "/uploads/sdsn-antarc.png",
+  "logo": "/uploads/sdsn-kenya.png",
   "whitelogo": "/uploads/sdsn-antsarc.png",
   "favicon": "/uploads/favicon.png",
-  "networkName": "Antarctica",
-  "networkDesc": "<p>SDSN Antarctica is a community of universities, research centers, and other knowledge institutions to translate the latest expertise in sustainable development into action.</p>",
-  "networkVision": "Mobilizing SDG implementation through solution initiatives and long-term pathways in Antarctica.",
+  "networkName": "Kenya",
+  "networkDesc": "<p>SDSN Kenya is a community of universities, research centers, and other knowledge institutions to translate the latest expertise in sustainable development into action.</p>",
+  "networkVision": "Mobilizing SDG implementation through solution initiatives and long-term pathways in Kenya.",
   "networkVisionSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.",
   "networkObjectives": [
     {
-      "header": "Localize the SDGs to Antarctica 1",
+      "header": "Localize the SDGs to Kenya 1",
       "desc": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.</p>",
       "link": ""
     },
     {
-      "header": "Localize the SDGs to Antarctica 5",
+      "header": "Localize the SDGs to Kenya 5",
       "desc": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.</p>",
       "link": "sdgstudent.org"
     },
     {
-      "header": "Localize the SDGs to Antarctica 3",
+      "header": "Localize the SDGs to Kenya 3",
       "desc": "",
       "link": "sdgstudent.org"
     }
@@ -28,7 +28,7 @@
   "networkMetrics": [
     {
       "header": "3 years",
-      "desc": "<p>Awarded the Sustainability Award in Antarctica, 3 years in a row.</p>"
+      "desc": "<p>Awarded the Sustainability Award in Kenya, 3 years in a row.</p>"
     },
     {
       "header": "129",
@@ -39,8 +39,8 @@
       "desc": "<p>Member Institutions in the South Pole - covering academia, fisheries and ice cap management firms.</p>"
     }
   ],
-  "networkEmail": "antarc@unsdsn.org",
-  "websiteTitle": "SDSN Antarctica",
+  "networkEmail": "kenya@unsdsn.org",
+  "websiteTitle": "SDSN Kenya",
   "websiteURL": "https://sdsn-rn-network.netlify.app/",
   "membersList": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shr69E7ELoC9HAx5U?backgroundColor=blue&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
   "title": "Network Details"

@@ -1,11 +1,11 @@
 ---
-title: 2019 SDG Index for Antarctica
+title: 2019 SDG Index for Kenya
 date: 2012-06-17T01:00:00.000+00:00
-author: SDSN Antarctica
+author: SDSN Kenya
 fImage: "/uploads/2019-lac-index-cover.png"
 featuredToggle: true
 tags:
-- Antarctica
+- Kenya
 - Sustainable Development
 - Report
 file: "/uploads/example_report.pdf"

@@ -1,5 +1,5 @@
 ---
 layout: local-sdgs
-title: SDGs in Antarctica
-permalink: /antarctica/
+title: SDGs in Kenya
+permalink: /kenya/
 ---
