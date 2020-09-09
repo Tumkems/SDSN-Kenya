@@ -10,12 +10,8 @@
   "contactTitle": "Want to learn more?",
   "contactCTA": "See benefits of joining the network",
   "contactCTAURL": "/join",
-  "featuredMembers": true,
+  "featuredMembers": false,
   "tImages": [
-    {
-      "tTitle": "example",
-      "tLink": "",
-      "tImg": "/uploads/44820-200.png"
-    }
+
   ]
 }
