@@ -86,3 +86,5 @@ fields:
     labelField: 
   label: Embedded content
   description: 'Add any embedded content here. '
+pages:
+- src/content/news/launch-of-the-sdsn-kenya-network.md
