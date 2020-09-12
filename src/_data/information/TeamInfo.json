@@ -10,15 +10,28 @@
   "nmDesc": "<p>Network Managers coordinate the network, working with Member Institutions to identify potential collaboration within the network.</p>",
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
-
+    {
+      "name": "",
+      "email": "",
+      "networkPosition": "",
+      "position": "",
+      "photo": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "networkPosition": "",
+      "position": "",
+      "photo": ""
+    }
   ],
   "nmProfiles": [
     {
       "name": "Ms. Stella Mbiti",
-      "email": "",
+      "email": "mbitistella@gmail.com",
       "networkPosition": "Assistant Network Manager",
-      "position": "",
-      "photo": ""
+      "position": "Assistant Lecturer in the Department of Landscape Architecture -Jomo Kenyatta University of Agriculture and Technology (JKUAT)",
+      "photo": "/uploads/stella-photo.jpg"
     },
     {
       "name": "Wesley Chirchir",
