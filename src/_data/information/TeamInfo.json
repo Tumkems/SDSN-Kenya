@@ -6,10 +6,17 @@
   "lcTitle": "Leadership Council",
   "nmTitle": "Network Managers",
   "youthTitle": "The Youth Team",
-  "lcDesc": "<p>The Leadership Council (LC) will comprise of 7 members with executive powers to run the affairs of SDSN Kenya. The LC meets monthly to plan, execute and monitor the progress being made in implementing program work in line with the mandate and agenda of SDSN Kenya. The LC is responsible to the General Assembly for the management and development of project and programs of SDSN Kenya. The responsibilities of the LC include:</p><ul><li><p>Consolidating and expanding SDSN Kenya to include participants from the desired constituencies and regions;</p></li><li><p>Ensuring that the desired services and functions of SDSN Kenya are developed and maintained, including associated fundraising;</p></li><li><p>Identifying and pursuing strategic opportunities to develop projects and promote its goals; and</p></li><li><p>Managing the project Secretariat.</p></li></ul>",
+  "lcDesc": "<p>The Leadership Council (LC) will comprise of 11 members with executive powers to run the affairs of SDSN Kenya. The LC meets monthly to plan, execute and monitor the progress being made in implementing program work in line with the mandate and agenda of SDSN Kenya. The LC is responsible to the General Assembly for the management and development of project and programs of SDSN Kenya. The responsibilities of the LC include:</p><ul><li><p>Consolidating and expanding SDSN Kenya to include participants from the desired constituencies and regions;</p></li><li><p>Ensuring that the desired services and functions of SDSN Kenya are developed and maintained, including associated fundraising;</p></li><li><p>Identifying and pursuing strategic opportunities to develop projects and promote its goals; and</p></li><li><p>Managing the project Secretariat.</p></li></ul>",
   "nmDesc": "<p>Network Managers coordinate the network, working with Member Institutions to identify potential collaboration within the network.</p>",
   "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
   "lcProfiles": [
+    {
+      "name": "Dr. Patrick Maluki",
+      "email": "patrick.maluki@uonbi.ac.ke",
+      "networkPosition": "CO-CHAIR- University of Nairobi",
+      "position": "Senior lecturer -school of Diplomacy -University of Nairobi ",
+      "photo": "/uploads/patrick-photo.jpg"
+    },
     {
       "name": "Prof. Simeon K. Mining ",
       "email": "skmining@mu.ac.ke",
