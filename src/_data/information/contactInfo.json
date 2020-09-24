@@ -2,9 +2,9 @@
   "contactProfiles": [
     {
       "photo": "/uploads/my-photo-2.jpg",
-      "contactHeader": "SDSN-Youth- Kenya ",
+      "contactHeader": "SDSN Youth Kenya ",
       "contactDesc": "Discuss partnerships opportunities or how to join our network and how to participate in ur programs.",
-      "ctaTitle": "SDSN-Kenya -Network Coordinator ",
+      "ctaTitle": "SDSN Kenya Network Coordinator ",
       "ctaEmail": "felix.kulei@sdsnyouth.org "
     },
     {
@@ -12,7 +12,7 @@
       "contactDesc": "Discuss partnership opportunities or how to join our network.",
       "ctaTitle": "Network Manager ",
       "ctaEmail": "kenya@unsdsn.org ",
-      "photo": ""
+      "photo": "/uploads/wesley-pic.jpg"
     }
   ],
   "socialMedia": false,
