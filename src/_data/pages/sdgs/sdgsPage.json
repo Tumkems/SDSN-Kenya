@@ -12,10 +12,10 @@
       "pretextFeature": "ACTION BY",
       "featureHeader": "National Government of Kenya ",
       "featureSubtitle": "<ol><li><p>A policy gaps analysis in 2018 assessed the country’s preparedness to implement the 2030 Agenda by elaborating how SDGs targets align with the national planning frameworks. It recommended enhancement of national policy framework, which informed the need to review the existing and development of new policies.</p></li><li><p>Government and partners use targeted awareness creation and sensitization strategies through focus group discussions, sensitization forums, workshops and discussion panels. Similarly, social media communication platforms are continuously used to disseminate SDGs to the public. The 2017 VNR identified low level of awareness on SDGs and a countrywide assessment was undertaken in 2019. This informs awareness campaign strategies, development and distribution of targeted IEC materials including translating SDGs into local languages.</p></li><li><p>The multi-stakeholder Inter Agency Technical Committee set up in 2016 and chaired by the government to coordinate SDGs activities is now co-chaired by government, Private sector and the CSO and a subcommittee established as the secretariat. Sub national governments have appointed and trained SDGs Champions to steer SDGs process.</p></li><li><p>Kenya follows “whole of government” and “whole of society” approach and has institutionalized stakeholder engagement in implementation, monitoring and awareness through their umbrella bodies. These are Parliamentary Caucus on SDGs and Business, Kenya Private Sector Alliance, Council of Governors for the sub national governments and National Youth Council. A multi-stakeholder engagement framework developed through consultation strengthens engagements, institutional and coordination mechanisms for the 2030 Agenda.</p></li></ol>",
-      "featureCta": "Read more: https://sustainabledevelopment.un.org/memberstates/kenya",
-      "uploadToggle": true,
+      "featureCta": "Read more",
+      "uploadToggle": false,
       "resourceFile": "",
-      "featureCtaURL": "",
+      "featureCtaURL": "https://sustainabledevelopment.un.org/memberstates/kenya",
       "featureImg": "/uploads/government-of-kenya-logo-with-text.jpg"
     }
   ]
