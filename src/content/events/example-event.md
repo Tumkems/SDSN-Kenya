@@ -1,6 +1,6 @@
 ---
 title: Launch of SDSN Kenya
-date: 2020-09-24T01:00:00+00:00
+postDate: 2020-09-24T01:00:00+00:00
 author: SDSN Kenya
 fImage: ''
 featuredToggle: true
