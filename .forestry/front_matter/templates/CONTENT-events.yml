@@ -77,3 +77,4 @@ fields:
   label: Location
 pages:
 - src/content/events/example-event.md
+- src/content/events/virtual-seminar-on-true-data-for-transformations-new-services.md
