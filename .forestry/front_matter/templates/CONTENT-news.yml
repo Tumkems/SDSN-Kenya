@@ -87,5 +87,6 @@ fields:
   label: Embedded content
   description: 'Add any embedded content here. '
 pages:
+- src/content/news/celebrating-africa-youth-month.md
 - src/content/news/drafting-of-kdsn-kenya-3-year-strategic-plan.md
 - src/content/news/launch-of-the-sdsn-kenya-network.md
