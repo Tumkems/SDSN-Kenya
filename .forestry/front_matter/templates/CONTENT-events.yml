@@ -76,6 +76,7 @@ fields:
     labelField: 
   label: Location
 pages:
+- src/content/events/dr-shirley-yeung-sdsn-kenya-asia-ambassador-invited-to-deliver-a-speech-on-innovations-and-transformations.md
 - src/content/events/example-event.md
 - src/content/events/integration-and-resilience-virtual-webinar.md
 - src/content/events/unsdg-system-sustainability-for-transformations-via-post-covid-19-sdg-4-8-9-17-webinar.md
