@@ -1,5 +1,5 @@
 {
-  "teamDesc": "<p>The team, comprised  of multi- disciplinary experts, works together to coordinate the network activities, engage with members and collaborate with stakeholders within the country.</p>",
+  "teamDesc": "<p>The team, comprised of multi-disciplinary experts, works together to coordinate the network activities, engage with members and collaborate with stakeholders within the country.</p>",
   "leadershipCouncil": true,
   "networkManagers": true,
   "youthCoordinators": true,
@@ -42,7 +42,7 @@
       "name": "Prof. Miriam Were, EBS, IOM",
       "email": "miriam@were.or.ke",
       "networkPosition": "Leadership Council Member ",
-      "position": "Prof. Miriam K. Were, a medical doctor, public health specialist, teacher and publisher. She is currently the Chairman of Kenya’s National AIDS Control Council (NACC) and the Board of AMREF (Africa Medical and Research Foundation) and on numerous other Boards.",
+      "position": "Chairman person of Kenya’s National AIDS Control Council (NACC) and the Board of AMREF and on numerous other Boards.",
       "photo": "/uploads/prof-miriam-were.jpg"
     },
     {
@@ -93,5 +93,5 @@
     }
   ],
   "defaultPhoto": "/images/person.png",
-  "title": "The Team"
+  "title": "Our Team"
 }
