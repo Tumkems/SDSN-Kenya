@@ -57,7 +57,7 @@ desc: '<p>The theme of International Youth Day 2021 is, “<strong>Transforming 
   Stella Mbiti, Assistant Manager, Role of universities in addressing the food challenge</p></li><li><p>Felix
   Kulei- Youth Network Coordinator, Role of SDSN Kenya youth</p></li><li><p>Margaret
   Kamau, the role of youth in addressing the food and hunger deficit</p></li></ul>'
-ctaURL: ''
+ctaURL: https://kenya.unsdsn.org/events/
 location: |-
   SDSN Kenya Youth Team is inviting you to a scheduled Zoom meeting.
   Join Zoom Meeting
